@@ -4,11 +4,11 @@
 
 ## I am a full stack web developer with a love for UX/UI design and everything that has to do with programming
 
-- 🔭 I just launched my first couple of courses: [HTML & CSS For Absolute Beginners][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I just launched my first couple of courses: [HTML & CSS For Absolute Beginners]!
+- 🌱 I am currently growing my Python and PHP skills
+- 👯 Im interested in connecting with other South African developers, possibly to collaborate on projects
+- 🥅 2021 Goals: To grow my web development business and YouTube channel (Deale Development)
+- ⚡ Fun fact: I am also a passionate musician
 
 ### Connect with me:
 
@@ -46,11 +46,11 @@
 
 <!-- YOUTUBE:START -->
 
-- [HTML For Absolute Beginners | Part I](https://www.youtube.com/watch?v=jEa9YyRqE1U)
-- [HTML For Absolute Beginners | Part II](https://www.youtube.com/watch?v=jEa9YyRqE1U)
-- [Why You Should Learn To Code In 2021](https://www.youtube.com/watch?v=LTwFX-hitQo)
-- [Build A Full Stack To-Do List App With React & Firebase](https://www.youtube.com/watch?v=dgOu1Y9xl5k)
-- [Solve The Fibonacci Sequence InterView Question](https://www.youtube.com/watch?v=3tG1jUQbuSI)
+- [HTML For Absolute Beginners | Part I](https://www.youtube.com/watch?v=E-36mnyQzFc&t=1044s)
+- [HTML For Absolute Beginners | Part II](https://www.youtube.com/watch?v=5lvIM455rTE&t=1142s)
+- [Why You Should Learn To Code In 2021](https://www.youtube.com/watch?v=pW41O1SvOk4&t=62s)
+- [Build A Full Stack To-Do List App With React & Firebase](https://www.youtube.com/watch?v=RauOROAWlSE&t=2357s)
+- [Solve The Fibonacci Sequence | JavaScript Interview Question](https://www.youtube.com/watch?v=5CXjk-wKlpc&t=587s)
 
 <!-- YOUTUBE:END -->
 
