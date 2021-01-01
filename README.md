@@ -34,7 +34,6 @@
 <img align="left" alt="MySQL" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="29px" src="https://uk.images.search.yahoo.com/search/images;_ylt=AwrJQ54NBu9f9wsAeHUM34lQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZANDMTExNl8xBHNlYwNzYw--?p=github+logo&fr=mcafee&th=195&tw=500&imgurl=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpecial%3AFilePath%2FFont_Awesome_5_brands_github.svg&rurl=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpecial%3AFilePath%2FFont_Awesome_5_brands_github.svg&name=GitHub&h=400&w=1024&turl=https%3A%2F%2Fs.yimg.com%2Ffz%2Fapi%2Fres%2F1.2%2FUCdGYIPTYSVAxzqFcfiz1A--%7EC%2FYXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTE4MDtxPTgwO3c9MjMw%2Fhttps%3A%2F%2Fs.yimg.com%2Fzb%2Fimgv1%2Fa70308f9-c37b-3a92-a56a-06c3ae65ed68%2Ft_500x300&tt=GitHub&sigr=p.gL821IxPdE&sigit=xO1kFWQG7MAP&sigi=JcexTu.hddJW&sign=zVJ0lelel3fb&sigt=zVJ0lelel3fb" />
 <img align="left" alt="Terminal" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
