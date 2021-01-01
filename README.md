@@ -1,4 +1,4 @@
-### Hello, My Name is Max. [website] 👋
+### Hello, My Name is Max. 👋
 
 [](https://deale-development.com)
 
