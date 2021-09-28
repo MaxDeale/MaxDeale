@@ -60,7 +60,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Max's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=maxdeale&show_icons=true&hide_border=true" />
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxdeale)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
