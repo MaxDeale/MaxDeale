@@ -4,11 +4,11 @@
 
 ## I am a full stack web developer with a love for UX/UI design and everything that has to do with programming
 
-- 🔭 I just launched my first couple of courses: [HTML & CSS For Absolute Beginners]!
-- 🌱 I am currently growing my Python and PHP skills
+- 🔭 I recently launched my first couple of courses: [HTML & CSS For Absolute Beginners] please check out the Deale Development channel to grow your web dev skills.
+- 🌱 I am currently growing my skills with Angular, VueJS and Python. 
 - 👯 Im interested in connecting with other South African developers, possibly to collaborate on projects
 - 🥅 2021 Goals: To grow my web development business and YouTube channel (Deale Development)
-- ⚡ Fun fact: I am also a passionate musician
+- ⚡ Fun fact: I am also a passionate musician & audio engineer
 
 ### Connect with me:
 
