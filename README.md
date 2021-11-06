@@ -44,7 +44,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [Build A Full Stack Shopping Cart App With React Redux & Firebase](https://www.youtube.com/watch?v=_zWOpsv4jW4)
 - [HTML For Absolute Beginners | Part I](https://www.youtube.com/watch?v=E-36mnyQzFc&t=1044s)
 - [HTML For Absolute Beginners | Part II](https://www.youtube.com/watch?v=5lvIM455rTE&t=1142s)
 - [Why You Should Learn To Code In 2021](https://www.youtube.com/watch?v=pW41O1SvOk4&t=62s)
