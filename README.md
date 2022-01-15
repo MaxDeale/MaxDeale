@@ -2,13 +2,13 @@
 
 [](https://deale-development.com)
 
-## I am a full stack web developer with a love for UX/UI design and everything that has to do with programming
+## I am a passionate software & web engineer with a focus on front end, and an interest in all areas of programming.
 
 - 🔭 I recently launched my first couple of courses: [HTML & CSS For Absolute Beginners] please check out the Deale Development channel to grow your web dev skills.
-- 🌱 I am currently growing my skills with Angular, VueJS and Python. 
-- 👯 Im interested in connecting with other South African developers, possibly to collaborate on projects
-- 🥅 2021 Goals: To grow my web development business and YouTube channel (Deale Development)
-- ⚡ Fun fact: I am also a passionate musician & audio engineer
+- 🌱 I am currently growing my blockchain development skills and investing in learning about AI. 
+- 👯 Im interested in connecting with other South African developers, possibly to collaborate on projects.
+- 🥅 2022 Goals: To grow my personal business and YouTube channel (Deale Development).
+- ⚡ Fun fact: I am also a passionate musician & audio engineer.
 
 ### Connect with me:
 
