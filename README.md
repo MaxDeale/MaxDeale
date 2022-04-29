@@ -2,7 +2,7 @@
 
 [](https://deale-development.com)
 
-## I am a passionate software & web engineer with a focus on front end, and an interest in all areas of programming.
+## I am a passionate software & web engineer with a currently specializing in JavaScript and Frontend Engineering, and an interest in all areas of programming.
 
 - 🔭 I recently launched my first couple of courses: [HTML & CSS For Absolute Beginners] please check out the Deale Development channel to grow your web dev skills.
 - 🌱 I am currently growing my blockchain development skills and investing in learning about AI. 
