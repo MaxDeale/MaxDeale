@@ -60,7 +60,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Anurag's GitHub stats](https://github-stats-alpha.vercel.app/api?username=maxdeale](https://github.com/anuraghazra/github-readme-stats)
+[https://github-stats-alpha.vercel.app/api?username=maxdeale]
 
 </details>
 
