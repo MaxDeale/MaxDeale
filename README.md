@@ -2,7 +2,7 @@
 
 [](https://deale-development.com)
 
-## I am a passionate software & web engineer currently specializing in JavaScript, TypeScript and Frontend Engineering with all frameworks, with an interest in all areas of programming.
+## I am a passionate software & web engineer currently specializing in JavaScript, TypeScript and FullStack Engineering with all frameworks, with an interest in all areas of programming.
 
 - 🔭 I recently launched my first couple of courses: [HTML & CSS For Absolute Beginners] please check out the Deale Development channel to grow your web dev skills.
 - 🌱 I am currently growing my blockchain development skills and investing in learning about AI. 
