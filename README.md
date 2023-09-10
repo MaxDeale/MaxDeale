@@ -2,12 +2,12 @@
 
 [](https://deale-development.com)
 
-## I am a passionate software & web engineer currently specializing in JavaScript, TypeScript and FullStack Engineering with all frameworks, with an interest in all areas of programming.
+## I am a passionate software engineer currently specializing in FullStack Engineering with all frameworks, with an interest in all areas of programming, including AI and cloud technologies.
 
 - 🔭 I recently launched my first couple of courses: [HTML & CSS For Absolute Beginners] please check out the Deale Development channel to grow your web dev skills.
-- 🌱 I am currently growing my blockchain development skills and investing in learning about AI. 
+- 🌱 I am currently growing my blockchain development skills and investing in learning about AI and cloud technology. 
 - 👯 Im interested in connecting with other South African developers, possibly to collaborate on projects.
-- 🥅 2022 Goals: To grow my personal business and YouTube channel (Deale Development).
+- 🥅 2024 Goals: To grow my personal business and YouTube channel (Deale Development).
 - ⚡ Fun fact: I am also a passionate musician & audio engineer.
 
 ### Connect with me:
