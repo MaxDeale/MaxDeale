@@ -57,11 +57,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary
-
-</details>
-
 [website]: https://deale-development.com
 [developer-cv]: http://maxdealecv.com
 [youtube]: https://www.youtube.com/channel/UCqpjlnAQaZ6gc0-dp_WWLwg
