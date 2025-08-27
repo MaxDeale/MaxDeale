@@ -7,7 +7,7 @@
 - 🔭 I launched some new videos on my YouTube channel: [HTML & CSS For Absolute Beginners] please check out the Deale Development channel to grow your web dev skills.
 - 🌱 I am currently growing my blockchain development skills and investing in learning about AI and cloud technology. 
 - 👯 Im interested in connecting with other South African developers, possibly to collaborate on projects.
-- 🥅 2024 Goals: To grow my personal business and YouTube channel (Deale Development).
+- 🥅 2025 Goals: To grow my personal business and YouTube channel (Deale Development).
 - ⚡ Fun fact: I am also a passionate musician & audio engineer.
 
 ### Connect with me:
