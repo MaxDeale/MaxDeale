@@ -6,7 +6,7 @@ Currently at **LexisNexis (RELX)** — leading AI search and conversational AI d
 
 Also building a side project applying RAG pipelines and Claude API to legal document workflows.
 
-🇮🇪 Irish / EU citizen &nbsp;·&nbsp; 📍 Johannesburg, South Africa &nbsp;·&nbsp; Open to remote roles
+🇮🇪 Irish / EU citizen &nbsp;·&nbsp; 📍 Johannesburg, South Africa &nbsp;·&nbsp; 
 
 ---
 
