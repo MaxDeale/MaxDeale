@@ -44,7 +44,6 @@ Also building a side project applying RAG pipelines and Claude API to legal docu
 - 🏢 Senior Software Engineer @ **LexisNexis** — Nexis+ AI team
 - 🔨 Building a **legal AI document intelligence platform** (side project — private repo)
 - 📚 Completing: **Building Agentic AI Applications with LLMs** — NVIDIA & DeepLearning.AI
-- 🎯 Looking for remote AI engineering roles with EU or US companies
 
 ---
 
