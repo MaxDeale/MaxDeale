@@ -1,62 +1,30 @@
-# Hi, I'm Max 👋
-
+Hi, I’m Max 👋
 Senior AI Engineer building production LLM systems and RAG pipelines.
 
-Currently at **LexisNexis (RELX)** — leading AI search and conversational AI development for Nexis+ AI, an award-winning platform serving thousands of legal and research professionals globally.
+Currently at Matrix Software, driving AI initiatives across both legacy modernisation and product development for a meat and food processing ERP platform running across 300+ sites.
 
-Also building a side project applying RAG pipelines and Claude API to legal document workflows.
+Also building MatterMind, an AI-powered case intake platform for South African labour law firms. Technical co-founder and CEO.
 
-🇮🇪 Irish / EU citizen &nbsp;·&nbsp; 📍 Johannesburg, South Africa &nbsp;·&nbsp; 
+🇮🇪 Irish / EU citizen · 📍 Johannesburg, South Africa
 
----
+What I build
 
-## What I build
+RAG pipelines at enterprise scale, multi-million document corpora, production traffic
+LLM-driven search, conversational AI, and AI-assisted legacy system modernisation
+Full-stack AI products, React/TypeScript frontends with Python, Node, and .NET backends
+Agentic systems and structured AI workflows using Claude and OpenAI APIs
 
-- **RAG pipelines** at enterprise scale — multi-million document corpora, production traffic
-- **LLM-driven search** and conversational AI tools integrated with legal and news databases
-- **Full-stack AI products** — React / TypeScript frontends with Python and .NET backends
-- **Agentic systems** and structured AI workflows using Claude and OpenAI APIs
+Tech stack
 
----
+AI/ML: LLMs · RAG · Prompt Engineering · Vector Databases · Agentic Systems · Anthropic Claude · OpenAI API · Semantic Search · Streaming Inference
 
-## Tech stack
+Backend & Data: C# / .NET · SQL Server · Entity Framework Core · Node.js · Python · Express · REST · GraphQL · Supabase
 
-**AI / ML**
+Frontend: React · TypeScript · Angular · Next.js · Sass/SCSS
 
-`LLMs` &nbsp; `RAG` &nbsp; `Prompt Engineering` &nbsp; `Vector Databases` &nbsp; `Agentic Systems` &nbsp; `OpenAI API` &nbsp; `Anthropic Claude` &nbsp; `Semantic Search` &nbsp; `Streaming Inference`
+Infra: PostgreSQL · MongoDB · Azure DevOps · CI/CD
 
-**Frontend**
+Currently
 
-`React` &nbsp; `TypeScript` &nbsp; `Angular` &nbsp; `Next.js` &nbsp; `Sass / SCSS`
-
-**Backend**
-
-`Node.js` &nbsp; `Python` &nbsp; `C# / .NET` &nbsp; `Express` &nbsp; `REST` &nbsp; `GraphQL`
-
-**Data & Infra**
-
-`PostgreSQL` &nbsp; `MongoDB` &nbsp; `Supabase` &nbsp; `Azure DevOps` &nbsp; `CI/CD`
-
----
-
-## Currently
-
-- 🏢 Senior Software Engineer @ **LexisNexis** — Nexis+ AI team
-- 🔨 Building a **legal AI document intelligence platform** (side project — private repo)
-- 📚 Completing: **Building Agentic AI Applications with LLMs** — NVIDIA & DeepLearning.AI
-
----
-
-## Certifications
-
-- Building Agentic AI Applications with LLMs — NVIDIA & DeepLearning.AI *(In Progress)*
-- Attention in Transformers (PyTorch) — DeepLearning.AI
-- Introduction to Generative AI — Percipio (2025)
-
----
-
-## Get in touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/max-deale-63619a198)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maxericdeale@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@DealeDev)
+🏢 Senior AI Software Engineer @ Matrix Software, AI-assisted legacy modernisation and AI features for an ERP platform
+🔨 Building MatterMind, AI case intake for SA labour law firms (technical co-founder & CEO), a multi-stage Claude pipeline turning case documents into structured intake summaries
