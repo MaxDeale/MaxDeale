@@ -5,7 +5,7 @@ Currently at Matrix Software, driving AI initiatives across both legacy modernis
 
 Also building MatterMind, an AI-powered case intake platform for South African labour law firms. Technical co-founder and CEO.
 
-🇮🇪 Irish / EU citizen · 📍 Johannesburg, South Africa
+ I am a dual South African and Irish / EU citizen · living in 📍 Johannesburg, South Africa
 
 What I build
 
